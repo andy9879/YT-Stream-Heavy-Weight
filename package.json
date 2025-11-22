@@ -1,0 +1,11 @@
+{
+  "name": "YT-Stream-Heavy-Weight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andy9879/YT-Stream-Heavy-Weight.git",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.31.0",
+    "puppeteer-stream": "^3.0.22"
+  }
+}
